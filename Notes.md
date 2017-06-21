@@ -4,7 +4,7 @@ larger than m)
 
 
 1. Get some names from phone book
-2.Get __sample__ *transaction* **data** from ~~Walmart~~ _during_ "ThanksGiving".
+2. Get sample transaction data from Walmart during "ThanksGiving".
 =======
 
 
