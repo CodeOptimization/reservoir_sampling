@@ -11,7 +11,9 @@ Get __sample__ *transaction* **data** from ~~Walmart~~ _during_ "ThanksGiving".
     dadasasadadsadas
         qwwsdsads
         
-        *Red、+Green、-Blue
+        *Red、
+        +Green、
+        -Blue
         
         
     1. Bird 1. McHale 1. Parish
