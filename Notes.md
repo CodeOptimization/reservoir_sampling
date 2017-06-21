@@ -11,8 +11,8 @@ Get __sample__ *transaction* **data** from ~~Walmart~~ _during_ "ThanksGiving".
     dadasasadadsadas
         qwwsdsads
         
-        *Red、
-        +Green、
+        *Red
+        +Green
         -Blue
         
         
