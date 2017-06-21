@@ -5,4 +5,14 @@ larger than m)
 
 1. Get some names from phone book
 =================
-2. Get sample transaction data from Walmart during ThanksGiving.
+Get __sample__ *transaction* **data** from ~~Walmart~~ _during_ "ThanksGiving".
+
+
+    dadasasadadsadas
+        qwwsdsads
+        
+        *Red、+Green、-Blue
+        
+        
+    1. Bird 1. McHale 1. Parish
+----------
