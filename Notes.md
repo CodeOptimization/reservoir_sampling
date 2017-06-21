@@ -5,17 +5,6 @@ larger than m)
 1. Get some names from phone book
 2. Get sample transaction data from Walmart during "ThanksGiving".
 
+##Simple Solution
 
-
-    dadasasadadsadas
-        qwwsdsads
-        
-        *Red
-        +Green
-        -Blue
-        
-        
-    1. Bird 
-    1. McHale 
-    1. Parish
 ----------
