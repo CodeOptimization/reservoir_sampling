@@ -13,9 +13,9 @@ Assigning a random value on each element in the stream then get the top _m_ numb
 1. Storing first _m_ elements. If there are only _m_ elements, that's it.
 > For the _i_th element(i > m), the probability it be sampled should eauql to the probability of each element sampled in the list of m elements, which is (m / i). 
 
-2.For the _i_th element(i > m), we will set its probability to be added in the reservoir as (m / i). As for the elements in the reservoir, we will choose one randomly and replace it with the _i_th element.
+2.For the _i_ th element(i > m), we will set its probability to be added in the reservoir as (m / i). As for the elements in the reservoir, we will choose one randomly and replace it with the _i_ th element.
 
-    Proof: The probablity of one element in reservoir will be replaced equals the probablity of the _i_th element will be chosen(m / i) and the element in reservoir itself to be choosen in the reservoir (1 / m). (m / i) * (1 / m) = (1 / i). 
+>>Proof: The probablity of one element in reservoir will be replaced equals the probablity of the _i_th element will be chosen(m / i) and the element in reservoir itself to be choosen in the reservoir (1 / m). (m / i) * (1 / m) = (1 / i). 
 
 
 ## Weighted Sampling
