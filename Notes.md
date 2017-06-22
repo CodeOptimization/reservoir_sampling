@@ -27,10 +27,7 @@ Code as below:
 
 TBD
 
-
-$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
-
-
 Reference: https://gregable.com/2007/10/reservoir-sampling.html
+
 =======
 -------
