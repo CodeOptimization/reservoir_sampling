@@ -15,7 +15,7 @@ Assigning a random value on each element in the stream then get the top _m_ numb
 
 2.For the _i_th element(i > m), we will set its probability to be added in the reservoir as (m / i). As for the elements in the reservoir, we will choose one randomly and replace it with the _i_th element.
 
-    haha
+    Proof: The probablity of one element in reservoir will be replaced equals the probablity of the _i_th element will be chosen(m / i) and the element in reservoir itself to be choosen in the reservoir (1 / m). (m / i) * (1 / m) = (1 / i). 
 
 
 ## Weighted Sampling
