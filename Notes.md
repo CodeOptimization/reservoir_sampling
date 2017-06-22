@@ -24,7 +24,10 @@ Assigning a random value on each element in the stream then get the top _m_ numb
 Code as below:
 
 ## Weighted Sampling
+
 TBD
+
+
 $$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
 =======
 -------
