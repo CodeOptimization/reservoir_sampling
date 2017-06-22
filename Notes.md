@@ -23,7 +23,7 @@ Assigning a random value on each element in the stream then get the top _m_ numb
 
 Code as below:
 
-## Weighted Sampling
+## Weighted Resevoir Sampling
 
 TBD
 
