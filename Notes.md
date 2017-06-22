@@ -11,9 +11,12 @@ Assigning a random value on each element in the stream then get the top _m_ numb
 > To get _m_ samples, we just store _m_ elements in the reservoir.
 
 1. Storing first _m_ elements. If there are only _m_ elements, that's it.
-> For the _i_th element(i > m), the probability it be sampled should eauql to the probability of each element sampled in the list of m elements, which is m / i. 
+> For the _i_th element(i > m), the probability it be sampled should eauql to the probability of each element sampled in the list of m elements, which is (m / i). 
 
-2.For the _i_th element(i > m), we will set its probability to be added in the reservoir as m / i. As for the elements in the reservoir, we will choose one randomly and replace it with the _i_th element.
+2.For the _i_th element(i > m), we will set its probability to be added in the reservoir as (m / i). As for the elements in the reservoir, we will choose one randomly and replace it with the _i_th element.
+
+    haha
+
 
 ## Weighted Sampling
 TBD
