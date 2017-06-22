@@ -25,5 +25,6 @@ Code as below:
 
 ## Weighted Sampling
 TBD
+$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
 =======
 -------
